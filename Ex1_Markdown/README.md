@@ -7,7 +7,7 @@
 | --- | ----------- |
 | Favourite color | Dark Green |
 | Favourite food | Meat & spinach casserole |
-| Pineapple on pizza |  [x] Yes  [  ] No|
+| Pineapple on pizza | &#9745; Yes  &#9744; No|
 
 ## Hobbies
 - Drawing
