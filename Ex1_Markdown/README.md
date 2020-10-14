@@ -2,7 +2,7 @@
 >*Time is a tangled web. Try not to dwell on all the loose ends.*
 
 ![Manten Devillé](assets/profile.jpg "My profile")
-## "Me, in one sentence"
+## Dry and dark humor with a beard.
 | Birthday | 06/12  |
 | --- | ----------- |
 | Favourite color | Dark Green |
