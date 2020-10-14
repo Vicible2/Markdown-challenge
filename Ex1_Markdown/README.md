@@ -29,6 +29,17 @@
 - You need a basic understanding in HTML
 - You want to play some games
 
+## The General programming experience
+
+Add 10 lines of code.
+Nothing works
+
+Delete everything
+
+Add the same 10 lines of code.
+Everything works
+![Hackerman](assets/hackerman.jpg "Hackerman")
+
 ## A funny story
 
 Once I heard about a guy who was fascinated with eating birdpoop when he was a kid. That sounded pretty dumb. Although me trying to juggle an axe wasn't that much smarter.
