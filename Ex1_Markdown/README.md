@@ -48,4 +48,4 @@ Once I heard about a guy who was fascinated with eating birdpoop when he was a k
 
 Eat birdpoop dumb, throw axe dumber.
 
-<< [Previous](https://github.com/khiati-nour/markdown-challenge "Khiati Nour El Houda") || Manten Devillé || [Next](https://duckduckgo.com "Maureen Oldyck") >>
+<< [Previous](https://github.com/khiati-nour/markdown-challenge "Khiati Nour El Houda") || Manten Devillé || [Next](https://github.com/maureenoldyck/markdown-challenge "Maureen Oldyck") >>
